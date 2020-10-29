@@ -27,3 +27,4 @@ https://codescene.io/projects/10170/jobs/74690/results
 19. DeepSource - automatically test Python code 
 https://deepsource.io/gh/COTASPAR/CryptoPlanet/
 20. Travis CI for continous integration https://travis-ci.com/getting_started
+21. Open Source Hardware - LightBoard - https://lightboard.info/
