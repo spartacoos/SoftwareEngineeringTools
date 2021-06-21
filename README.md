@@ -30,6 +30,34 @@ https://deepsource.io/gh/COTASPAR/CryptoPlanet/
 21. Open Source Hardware - LightBoard - https://lightboard.info/
 22. https://upverter.com/
 
+# Starts here:
+
+## Rust
+1. [Current point on discovery book](https://docs.rust-embedded.org/discovery/05-led-roulette/the-challenge.html)
+2. [Cool experiment worth trying out embedded rust](https://nercury.github.io/rust/embedded/experiments/2018/04/29/rust-embedded-01-discovery-vl-flipping-bits.html)
+3. [State machines in Rust 2](https://deislabs.io/posts/a-fistful-of-states/)
+4. [State machines in Rust 1](https://hoverbear.org/blog/rust-state-machine-pattern/)
+5. [State machines in Rust 3](https://blog.yoshuawuyts.com/state-machines/#:~:text=In%20Rust%20states%20are%20often,describe%20the%20relations%20between%20states.&text=State%20machines%20not%20only%20encode,encode%20which%20transitions%20are%20invalid.)
+6. [CO2 measuring device knurling sessions embedded Rust](https://github.com/knurling-rs/knurling-session-20q4)
+7. [CO2 measuring device book](https://session20q4.ferrous-systems.com/sessions/preparations)
+8. 
 
 ## Stores
 1. https://www.gumstix.com/cm4-pixhawk-fmuv6.html
+
+## Robotics
+
+### Robotics from scratch 
+1. [Angela Sodeman](https://www.youtube.com/watch?v=pLXoDRctwRg&list=PLT_0lwItn0sDBE98BsbaZezflB96ws12b)
+
+## Machine Learning
+
+### Trading
+1. [Machine Learning for Algorithmic Trading - Second Edition](https://subscription.packtpub.com/book/data/9781839217715)
+2. 
+
+### Federated Learning
+1. https://flower.dev/blog/2020-12-11-federated-learning-in-less-than-20-lines-of-code
+2. 
+
+
