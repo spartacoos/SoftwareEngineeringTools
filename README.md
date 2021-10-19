@@ -1,4 +1,4 @@
-1. Twillio - sms automation 
+1. Twillio - text messages automation 
 2. Adafruit IO dashboard
 3. IFTTT - logic simplification and automation tool
 4. Mailgun email automation tool for mailing lists and analytics, personalize email, trigger email when user takes action
